@@ -1,0 +1,25 @@
+.idea/
+
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+src/__pycache__/
+src/app/__pycache__/
+src/google_client_secret.json
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+.DS_Store
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
